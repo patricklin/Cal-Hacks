@@ -956,6 +956,9 @@ img {
        -o-transition: all .2s ease-in-out;
           transition: all .2s ease-in-out;
 }
+.img-small {
+  height:80px;
+}
 .img-mini {
   width: 100px;
   height: 100px;
