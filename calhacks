@@ -1,0 +1,24 @@
+expenses, calendar, list (chores?)
+
+sign up to create a group, send invites to others
+
+current balance: have it as dropdown like in fb, list balances (positive/negative) with respect to every other person
+
+expenses:
+	restaurant bills: add each person and amount owed, extra feature could help calculate tip/tax
+	automatic billing for rent/utilities
+	+ button creates popup, dropdown to select person, text boxes to input amounts owed
+	if not adding, just see list of expenses
+
+calendar: Google Calendar API? create events on that page, push to their google or FB calendars
+
+list: list of chores/responsibilities, only able to edit yours?
+
+personal profiles: see how much someone owes everyone else, embed personal calendars (https://support.google.com/calendar/answer/41207?hl=en)
+
+main page: add smaller calendar widget? highlight important deadlines
+
+login page: merge SB2 with launch screen
+	font awesome icons
+expandable list: http://www.bootply.com/98140
+	http://jsfiddle.net/A9vCx/
